@@ -19,7 +19,7 @@
  
 🔗 Let's connect:
 
-[LinkedIn](https://www.linkedin.com/in/ranjeet-kumar-verma-b28127204/) | [LeetCode](https://leetcode.com/u/ranjeet_kverma/) | [GeeksforGeeks]([https://www.geeksforgeeks.org/user/ranjeetvermammb2/])
+[LinkedIn](https://www.linkedin.com/in/ranjeet-kumar-verma-b28127204/) | [LeetCode](https://leetcode.com/u/ranjeet_kverma/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/ranjeetvermammb2/)
  
  
 ### 🧑‍💻 About Me
