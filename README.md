@@ -2,46 +2,44 @@
  
 ###
  
-<h1 align="center">Hi 👋, I'm  Yadav</h1>
-<h3 align="center">A Passionate Software Developer & Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Ranjeet Kumar Verma</h1>
+<h3 align="center">A Passionate Full Stack Developer & Tech Enthusiast</h3>
  
  
  
-👋 Hi, I'm Rohit Yadav — a Software Developer based in Noida, India.
+👋 Hi, I'm Ranjeet Kumar Verma — a Software Developer at Cinntra Infotech Solutions in Noida, India.
  
-🚀 I specialize in building scalable, user-focused web applications using AngularJS, Django, and RESTful APIs. Currently working at Cinntra Info Tech Pvt. Ltd., where I develop dynamic dashboards, custom CRM modules, and backend integrations that solve real-world business problems.
+🚀 I specialize in building scalable, user-focused web applications using Angular, React,js, Node.js, Redis, MongoDB, SQL, MySQL, and RESTful APIs, where I develop dynamic dashboards, dynamic CRM modules, and backend integrations that solve real-world business problems.
  
-💡 I'm passionate about clean code, efficient architecture, and continuously learning new technologies. I love automating workflows, integrating APIs, and building full-stack projects that make an impact.
+💡 I'm passionate about clean thinking, efficient architecture, and continuously learning new technologies. I love automating workflows, integrating APIs, and building full-stack projects that make an impact.
  
-📦 Tech Stack: Python | AngularJS | Django | DRF | SQL | JavaScript | HTML | CSS | Git
+📦 Tech Stack: React.js | Angular | SQL | JavaScript | HTML | CSS | Git | Redis | MongoDB | MySQL 
  
-📂 Explore my pinned repositories to see some of my recent projects in action!
+📂 Explore my repositories to see some of my recent projects in action!
  
 🔗 Let's connect:
 
-[LinkedIn](https://www.linkedin.com/in/rohit-yadav-5b3431216/) | [LeetCode](https://leetcode.com/u/apnacoderohit0407/)
+[LinkedIn](https://www.linkedin.com/in/ranjeet-kumar-verma-b28127204/) | [LeetCode](https://leetcode.com/u/ranjeet_kverma/) | [GeeksforGeeks]([https://www.geeksforgeeks.org/user/ranjeetvermammb2/])
  
  
 ### 🧑‍💻 About Me
  
-- 🌱 I’m currently learning **Full Stack Python Development**, **AIML**, and **DSA**
-
-- 🔭 I’m working on: `AI ChatBoat`, `OCR-Based Smart Form Filler with ChatGPT Integration`, `Acne Detection Using Deep Learning`
+- 🌱 I’m currently learning **Full Stack Stack Development**, **GenAI**, and **DSA**
 
 - 🎯 Focused on writing clean, maintainable, and scalable code
 
-- 💬 Ask me about **C++**, **Python**, **AngularJS**, or anything tech!
+- 💬 Ask me about **C++**, **React.js**, **Angular**, ,**DSA**,**OOPs**, **Node.js**, **SQL**
 
-- 📫 Reach me at: **rohityadavk2024@gmail.com**
+- 📫 Reach me at: **ranjeetkv12@gmail.com**
 
-- 🌐 Portfolio: [Portfolio](https://your-portfolio-link.com)
+- 🌐 Portfolio: [Portfolio]()
  
 ---
  
  
 <!--
 
-**Rohityadav040701/Rohityadav040701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ranjeet2gh/ranjeet2gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
 Here are some ideas to get you started:
  
